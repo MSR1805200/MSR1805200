@@ -4,7 +4,6 @@
 - Tenho interesse em ciência de dados, inteligência artificial e aprendizado de máquina 🤖
 - Estudando 📗: PLN(Processamento de Línguagem Natural) e aprendizado de máquina!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!---
 MSR1805200/MSR1805200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
